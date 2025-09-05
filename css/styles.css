@@ -26,12 +26,16 @@ ul {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .header-list {
   display: flex;
   gap: 40px;
+}
+
+.header-list-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-logo {
@@ -43,7 +47,6 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .logo-span {
