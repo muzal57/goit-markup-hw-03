@@ -130,9 +130,11 @@ ul {
   text-align: center;
   color: #fff;
   max-width: 496px;
+  margin: auto;
 }
 
 .hero-btn {
+  display: block;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -145,6 +147,8 @@ ul {
   border: none;
   height: 56px;
   border-radius: 4px;
+  margin: auto;
+  margin-top: 48px;
 }
 
 .hero-btn:hover {
@@ -335,4 +339,5 @@ ul {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
